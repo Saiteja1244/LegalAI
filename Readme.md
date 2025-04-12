@@ -66,7 +66,7 @@
 ### **Setup**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/srishrachamalla7/LegalAI-Crew.git
+   git clone https://github.com/Saiteja1244/LegalAI-Crew.git
    ```
 
 2. **Install Dependencies**:
